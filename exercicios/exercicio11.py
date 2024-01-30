@@ -1,7 +1,7 @@
 #Exercício 2 - Tomada de decisão - Womakerscode
 
 #Solicitando informação do turno para o usuário
-turno = input('Digite qual turno você estuda: [M] Matutino, [V] Vespertino, [N] Nortuno: ').upper().split()
+turno = input('Digite qual turno você estuda: [M] Matutino, [V] Vespertino, [N] Nortuno: ').upper()
 
 #Estrutura condicional
 if turno == "M":
